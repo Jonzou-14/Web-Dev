@@ -9,15 +9,16 @@
 }
 
 /*Header*/
-.logo-header{
+#logo-header{
     display: flex;
     align-items: center;
     justify-content: center;
     border-bottom: 2px solid rgb(201, 199, 199);
 }
 
-.logo-header img {
+#logo-header img {
     height: 78px;
+    cursor: pointer;
 }
 
 .nav-bar {
